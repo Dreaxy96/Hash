@@ -14,8 +14,8 @@ This Python tool allows you to generate hashes for any given text using popular 
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/YourUsername/Hash-Cracker.git
-    cd Hash-Cracker
+    git clone https://github.com/Dreaxy96/Hash.git
+    cd Hash
     ```
 
 2. Install required libraries (if any):
